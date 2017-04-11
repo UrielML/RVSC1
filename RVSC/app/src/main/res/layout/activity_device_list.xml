@@ -1,0 +1,24 @@
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_device_list"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:columnCount="1"
+tools:context="com.wordpress.dragkoz.rvsc.deviceList">
+
+<Button
+    android:id="@+id/scan_devices"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:text="Buscar dispositivos"
+    android:textColor="@android:color/white"
+    android:textSize="30sp"
+    />
+
+<ListView
+    android:id="@+id/list_device"
+    android:layout_width="match_parent"
+    ></ListView>
+
+</GridLayout>

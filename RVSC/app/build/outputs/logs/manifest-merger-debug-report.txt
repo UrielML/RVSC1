@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:13:5-52:19
+MERGED from [com.android.support:design:25.2.0] /home/dragkoz/.android/build-cache/567b38091fafe594d4931627db948422c310faf0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/dragkoz/.android/build-cache/48e550c168e90d502d4a237768d7069afc987aba/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/dragkoz/.android/build-cache/1cdeefd7302db02859827be6973416e5999a4c36/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/dragkoz/.android/build-cache/1e370126387f705b1a821ba515ab68523d7c1f42/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/dragkoz/.android/build-cache/a4cba3c2a1f81d06d88f0ee74de8f2fb74daadac/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dragkoz/.android/build-cache/a3485dfb2ac2929c2148e18c5f985f8f45383308/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/dragkoz/.android/build-cache/ad84c30249be7d51b40368c15a4a9365ce4c7d4f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/dragkoz/.android/build-cache/6d6b4879d688bd02867048b8a600fefb7067d5fb/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/dragkoz/.android/build-cache/9f6d6b4c087c39f458ad03ca9f73b7ed3488d576/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/dragkoz/.android/build-cache/ed06534295783ae9619919f26258b6194400b1a6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/dragkoz/.android/build-cache/895b24907c9e2eb09766191baffe486c4111d0c5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/dragkoz/.android/build-cache/552c8e18ecd2e88cf6413336a342d47a104968c8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/dragkoz/.android/build-cache/0b5fb1fcbb7d5d0e29e3705a625e305267294eca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/dragkoz/.android/build-cache/29e0f72001425f670fbb7da133b832f64df0d717/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.wordpress.dragkoz.rvsc.Home
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:21:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:27:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:38:9-40:55
+	android:value
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:39:13-58
+activity#com.wordpress.dragkoz.rvsc.h
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:42:9-44:56
+	android:label
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:44:13-53
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:43:13-30
+activity#com.wordpress.dragkoz.rvsc.Hospitals
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:45:9-47
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:45:19-44
+activity#com.wordpress.dragkoz.rvsc.Contacts
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:46:9-46
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:46:19-43
+activity#com.wordpress.dragkoz.rvsc.FormContacts
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:47:9-50
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:47:19-47
+activity#com.wordpress.dragkoz.rvsc.body
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:48:9-42
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:48:19-39
+activity#com.wordpress.dragkoz.rvsc.splash
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:49:9-44
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:49:19-41
+activity#com.wordpress.dragkoz.rvsc.deviceList
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:50:19-45
+activity#com.wordpress.dragkoz.rvsc.testSQLITe
+ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:51:9-57
+	android:name
+		ADDED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml:51:19-45
+uses-sdk
+INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] /home/dragkoz/.android/build-cache/567b38091fafe594d4931627db948422c310faf0/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/dragkoz/.android/build-cache/48e550c168e90d502d4a237768d7069afc987aba/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/dragkoz/.android/build-cache/1cdeefd7302db02859827be6973416e5999a4c36/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/dragkoz/.android/build-cache/1e370126387f705b1a821ba515ab68523d7c1f42/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/dragkoz/.android/build-cache/a4857fb63b8e66982d0be1bac0b75dc9f86916dd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/dragkoz/.android/build-cache/a4cba3c2a1f81d06d88f0ee74de8f2fb74daadac/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dragkoz/.android/build-cache/a3485dfb2ac2929c2148e18c5f985f8f45383308/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/dragkoz/.android/build-cache/ad84c30249be7d51b40368c15a4a9365ce4c7d4f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/dragkoz/.android/build-cache/6d6b4879d688bd02867048b8a600fefb7067d5fb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/dragkoz/.android/build-cache/9f6d6b4c087c39f458ad03ca9f73b7ed3488d576/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/dragkoz/.android/build-cache/ed06534295783ae9619919f26258b6194400b1a6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/dragkoz/.android/build-cache/895b24907c9e2eb09766191baffe486c4111d0c5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/dragkoz/.android/build-cache/552c8e18ecd2e88cf6413336a342d47a104968c8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/dragkoz/.android/build-cache/0b5fb1fcbb7d5d0e29e3705a625e305267294eca/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/dragkoz/.android/build-cache/29e0f72001425f670fbb7da133b832f64df0d717/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/dragkoz/.android/build-cache/567b38091fafe594d4931627db948422c310faf0/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dragkoz/AndroidStudioProjects/RVSC/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/dragkoz/.android/build-cache/4f5b3e5ccb25503c295b55adc70d0167731cfe30/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/dragkoz/.android/build-cache/e17c659afdac64256b7b769008224f7cabd4a763/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/dragkoz/.android/build-cache/6d6b4879d688bd02867048b8a600fefb7067d5fb/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/dragkoz/.android/build-cache/6d6b4879d688bd02867048b8a600fefb7067d5fb/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/dragkoz/.android/build-cache/6d6b4879d688bd02867048b8a600fefb7067d5fb/output/AndroidManifest.xml:20:20-65

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RVSC-AlarmButton</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="navigation_drawer_close">Cerrar Navegador</string>
+    <string name="navigation_drawer_open">Abrir Navegador</string>
+    <string name="home">Incio</string>
+    <string name="programing">Ajustar Revision</string>
+    <string name="status">Estado</string>
+    <string name="others">Otros</string>
+    <string name="about">Acerca de</string>
+    <string name="question_exit">¿Esta seguro que desea salir?</string>
+    <string name="title_exit">SALIR</string>
+</resources>
